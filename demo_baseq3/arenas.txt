@@ -1,0 +1,6 @@
+ {
+  map           "tut1"
+  longname      "Sample Map"
+  fraglimit     "5"
+  type          "ffa team_ffa"
+ }
