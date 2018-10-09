@@ -1,0 +1,1003 @@
+
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"classname" "light"
+"light" "18.3242"
+"origin" "-11.75 -213.125 18.75"
+}
+// entity 2
+{
+"classname" "light"
+"light" "248.084"
+"origin" "-171.5 28.75 19.5"
+}
+// entity 3
+{
+"classname" "light"
+"light" "126.803"
+"origin" "325.875 17.625 2.75"
+}
+// entity 4
+{
+"classname" "light"
+"light" "145.46"
+"origin" "297.375 399.625 3"
+}
+// entity 5
+{
+"classname" "light"
+"light" "92.9429"
+"origin" "1164.51 16.5 33.625"
+}
+// entity 6
+{
+"classname" "light"
+"light" "227.427"
+"origin" "-620.375 47.625 88.875"
+}
+// entity 7
+{
+"classname" "light"
+"light" "217.878"
+"origin" "865.375 16.875 22.625"
+}
+// entity 8
+{
+"classname" "light"
+"light" "217.878"
+"origin" "661.125 29.125 20.875"
+}
+// entity 9
+{
+"classname" "func_group"
+// brush 0
+{
+( -433 -52 -52 ) ( -403 76 -56 ) ( -403 -52 -56 ) stone/Stone_Brushed_Khaki 255 35 90 0.5 0.4956139922 0 0 0
+( -433 -52 -78 ) ( -433 76 -52 ) ( -433 -52 -52 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -403 -52 -84 ) ( -433 -52 -52 ) ( -403 -52 -56 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 76 -56 ) ( -403 -52 -84 ) ( -403 -52 -56 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 76 -78 ) ( -403 -52 -84 ) ( -403 76 -84 ) stone/Stone_Brushed_Khaki 255 208 -90 0.5 -0.4902899861 0 0 0
+( -433 76 -52 ) ( -403 76 -84 ) ( -403 76 -56 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 1
+{
+( 981 -36 -64 ) ( 1021 74 -64 ) ( 1021 -36 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 981 -36 -92 ) ( 981 74 -64 ) ( 981 -36 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1021 -36 -92 ) ( 981 -36 -64 ) ( 1021 -36 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1021 74 -64 ) ( 1021 -36 -92 ) ( 1021 -36 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 74 -92 ) ( 1021 -36 -92 ) ( 1021 74 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 981 74 -64 ) ( 1021 74 -92 ) ( 1021 74 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 2
+{
+( 5 -92 -64 ) ( 61 -64 -64 ) ( 61 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 5 -92 -92 ) ( 5 -64 -64 ) ( 5 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 61 -92 -92 ) ( 5 -92 -64 ) ( 61 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 61 -64 -64 ) ( 61 -92 -92 ) ( 61 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 5 -64 -92 ) ( 61 -92 -92 ) ( 61 -64 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 5 -64 -64 ) ( 61 -64 -92 ) ( 61 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 3
+{
+( 575 -40 -64 ) ( 595 76 -64 ) ( 595 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 575 -40 -92 ) ( 575 76 -64 ) ( 575 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 595 -40 -92 ) ( 575 -40 -64 ) ( 595 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 595 76 -64 ) ( 595 -40 -92 ) ( 595 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 76 -92 ) ( 595 -40 -92 ) ( 595 76 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 575 76 -64 ) ( 595 76 -92 ) ( 595 76 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 4
+{
+( 119 -388 -64 ) ( -49 -388 114 ) ( 119 -388 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -49 -388 -64 ) ( -49 -362 114 ) ( -49 -388 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -49 -388 114 ) ( 119 -362 114 ) ( 119 -388 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 119 -362 -64 ) ( 119 -388 114 ) ( 119 -362 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -49 -362 -64 ) ( 119 -388 -64 ) ( 119 -362 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -49 -362 114 ) ( 119 -362 -64 ) ( 119 -362 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 5
+{
+( 281 276 -64 ) ( 455 536 -64 ) ( 455 276 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 281 276 -92 ) ( 281 536 -64 ) ( 281 276 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 455 276 -92 ) ( 281 276 -64 ) ( 455 276 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 455 536 -64 ) ( 455 276 -92 ) ( 455 276 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 281 536 -92 ) ( 455 276 -92 ) ( 455 536 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 281 536 -64 ) ( 455 536 -92 ) ( 455 536 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 6
+{
+( 455 276 -64 ) ( 455 536 114 ) ( 455 276 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 455 276 114 ) ( 481 536 114 ) ( 481 276 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 481 276 -64 ) ( 455 276 114 ) ( 481 276 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 481 536 114 ) ( 481 276 -64 ) ( 481 276 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 455 536 -64 ) ( 481 276 -64 ) ( 481 536 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 455 536 114 ) ( 481 536 -64 ) ( 481 536 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 7
+{
+( 281 536 114 ) ( 455 276 114 ) ( 455 536 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 281 276 114 ) ( 281 536 140 ) ( 281 276 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 281 276 140 ) ( 455 536 140 ) ( 455 276 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 455 276 140 ) ( 281 276 114 ) ( 281 276 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 455 536 140 ) ( 455 276 114 ) ( 455 276 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 281 536 114 ) ( 455 536 140 ) ( 281 536 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 8
+{
+( 281 536 114 ) ( 281 276 -64 ) ( 281 276 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 255 276 -64 ) ( 255 536 114 ) ( 255 276 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 255 276 114 ) ( 281 536 114 ) ( 281 276 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 281 276 114 ) ( 255 276 -64 ) ( 255 276 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 255 536 -64 ) ( 281 276 -64 ) ( 281 536 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 255 536 -64 ) ( 281 536 114 ) ( 255 536 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 9
+{
+( -907 98 122 ) ( -495 -62 232 ) ( -495 98 232 ) common/nodrawnonsolid 0 111 90 0.5 -0.4830789864 0 0 0
+( -907 98 150 ) ( -495 98 232 ) ( -495 98 262 ) common/nodrawnonsolid 0 0 -180 0.5 -0.5 0 0 0
+( -907 98 122 ) ( -907 -62 150 ) ( -907 -62 122 ) common/nodrawnonsolid 0 0 180 0.5 -0.5 0 0 0
+( -495 -62 262 ) ( -907 -62 122 ) ( -907 -62 150 ) common/nodrawnonsolid 0 0 0 0.5 0.5 0 0 0
+( -495 98 262 ) ( -495 -62 232 ) ( -495 -62 262 ) common/nodrawnonsolid 0 0 0 0.5 0.5 0 0 0
+( -495 -62 262 ) ( -907 98 150 ) ( -495 98 262 ) common/nodrawnonsolid 0 104 -90 0.5 0.4824900031 0 0 0
+}
+// brush 10
+{
+( -907 -62 122 ) ( -495 -62 76 ) ( -495 -62 232 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -907 -62 76 ) ( -495 -88 76 ) ( -495 -62 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -907 -62 76 ) ( -907 -88 122 ) ( -907 -88 76 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -907 -88 76 ) ( -495 -88 232 ) ( -495 -88 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 -88 76 ) ( -495 -62 232 ) ( -495 -62 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -907 -62 122 ) ( -495 -88 232 ) ( -907 -88 122 ) stone/Stone_Brushed_Khaki 0 111 -90 0.5 0.4830789864 0 0 0
+}
+// brush 11
+{
+( -907 -62 76 ) ( -907 98 122 ) ( -907 98 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -907 98 76 ) ( -933 98 116 ) ( -933 98 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -907 98 76 ) ( -933 -62 76 ) ( -907 -62 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -933 -62 116 ) ( -933 98 76 ) ( -933 98 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -907 -62 122 ) ( -933 -62 76 ) ( -933 -62 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -907 -62 122 ) ( -933 98 116 ) ( -907 98 122 ) stone/Stone_Brushed_Khaki 0 63 -90 0.5 0.4871959984 0 0 0
+}
+// brush 12
+{
+( -907 98 76 ) ( -495 98 232 ) ( -495 98 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 126 76 ) ( -907 126 122 ) ( -907 126 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -907 98 76 ) ( -495 126 76 ) ( -907 126 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -907 98 122 ) ( -907 126 76 ) ( -907 126 122 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -495 98 76 ) ( -495 126 232 ) ( -495 126 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 98 232 ) ( -907 126 122 ) ( -495 126 232 ) stone/Stone_Brushed_Khaki 0 111 -90 0.5 0.4830789864 0 0 0
+}
+// brush 13
+{
+( 57 196 -64 ) ( -3 196 114 ) ( 57 196 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -3 196 -64 ) ( -3 222 114 ) ( -3 196 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -3 196 114 ) ( 57 222 114 ) ( 57 196 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 57 222 -64 ) ( 57 196 114 ) ( 57 222 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -3 222 -64 ) ( 57 196 -64 ) ( 57 222 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -3 222 114 ) ( 57 222 -64 ) ( 57 222 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 14
+{
+( -3 96 -64 ) ( 57 196 -64 ) ( 57 96 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -3 96 -92 ) ( -3 196 -64 ) ( -3 96 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 57 96 -92 ) ( -3 96 -64 ) ( 57 96 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 57 196 -64 ) ( 57 96 -92 ) ( 57 96 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -3 196 -92 ) ( 57 96 -92 ) ( 57 196 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -3 196 -64 ) ( 57 196 -92 ) ( 57 196 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 15
+{
+( 57 122 -64 ) ( 57 196 114 ) ( 57 122 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 57 122 114 ) ( 83 196 114 ) ( 83 122 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 83 122 -64 ) ( 57 122 114 ) ( 83 122 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 83 196 114 ) ( 83 122 -64 ) ( 83 122 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 57 196 -64 ) ( 83 122 -64 ) ( 83 196 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 57 196 114 ) ( 83 196 -64 ) ( 83 196 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 16
+{
+( -3 196 114 ) ( 57 96 114 ) ( 57 196 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -3 96 114 ) ( -3 196 140 ) ( -3 96 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -3 96 140 ) ( 57 196 140 ) ( 57 96 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 57 96 140 ) ( -3 96 114 ) ( -3 96 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 57 196 140 ) ( 57 96 114 ) ( 57 96 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -3 196 114 ) ( 57 196 140 ) ( -3 196 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 17
+{
+( -3 196 114 ) ( -3 122 -64 ) ( -3 122 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -31 122 -64 ) ( -31 196 114 ) ( -31 122 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -31 122 114 ) ( -3 196 114 ) ( -3 122 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -3 122 114 ) ( -31 122 -64 ) ( -31 122 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -31 196 -64 ) ( -3 122 -64 ) ( -3 196 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -31 196 -64 ) ( -3 196 114 ) ( -31 196 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 18
+{
+( -753 -62 0 ) ( -753 -62 76 ) ( -867 -62 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -753 -88 0 ) ( -753 -62 76 ) ( -753 -62 0 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -867 -62 76 ) ( -753 -88 0 ) ( -753 -62 0 ) stone/Stone_Brushed_Khaki 255 96 -90 0.5 -0.4160250127 0 0 0
+( -753 -62 76 ) ( -867 -88 76 ) ( -867 -62 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -867 -88 76 ) ( -753 -88 76 ) ( -753 -88 0 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 19
+{
+( -867 -62 76 ) ( -753 98 0 ) ( -753 -62 0 ) stone/Stone_Brushed_Khaki 255 96 90 0.5 0.4160250127 0 0 0
+( -915 98 76 ) ( -753 98 -32 ) ( -867 98 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -753 98 -32 ) ( -753 -62 0 ) ( -753 98 0 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -915 98 76 ) ( -753 -62 -32 ) ( -753 98 -32 ) stone/Stone_Brushed_Khaki 255 132 -90 0.5 -0.4160250127 0 0 0
+( -867 -62 76 ) ( -915 98 76 ) ( -867 98 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -753 -62 -32 ) ( -867 -62 76 ) ( -753 -62 0 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 20
+{
+( -867 98 76 ) ( -753 98 76 ) ( -753 98 0 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -753 126 76 ) ( -867 126 76 ) ( -753 126 0 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -753 98 76 ) ( -753 126 0 ) ( -753 98 0 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -867 98 76 ) ( -753 126 0 ) ( -867 126 76 ) stone/Stone_Brushed_Khaki 255 96 -90 0.5 -0.4160250127 0 0 0
+( -867 98 76 ) ( -753 126 76 ) ( -753 98 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+}
+// brush 21
+{
+( 757 188 -64 ) ( 595 188 116 ) ( 757 188 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 595 188 -64 ) ( 595 214 116 ) ( 595 188 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 595 188 116 ) ( 757 214 116 ) ( 757 188 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 757 214 -64 ) ( 757 188 116 ) ( 757 214 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 595 214 -64 ) ( 757 188 -64 ) ( 757 214 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 595 214 116 ) ( 757 214 -64 ) ( 757 214 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 22
+{
+( 595 -158 -64 ) ( 757 188 -64 ) ( 757 -158 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 595 -158 -92 ) ( 595 188 -64 ) ( 595 -158 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 757 -158 -92 ) ( 595 -158 -64 ) ( 757 -158 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 188 -64 ) ( 757 -158 -92 ) ( 757 -158 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 595 188 -92 ) ( 757 -158 -92 ) ( 757 188 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 595 188 -64 ) ( 757 188 -92 ) ( 757 188 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 23
+{
+( 595 -158 116 ) ( 757 -158 -64 ) ( 757 -158 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 595 -186 -64 ) ( 595 -158 116 ) ( 595 -186 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 595 -186 116 ) ( 757 -158 116 ) ( 757 -186 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 757 -186 116 ) ( 595 -186 -64 ) ( 595 -186 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 -158 116 ) ( 757 -186 -64 ) ( 757 -186 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 595 -186 -64 ) ( 757 -158 -64 ) ( 595 -158 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 24
+{
+( 595 188 116 ) ( 757 -158 116 ) ( 757 188 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 595 -158 116 ) ( 595 188 142 ) ( 595 -158 142 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 595 -158 142 ) ( 757 188 142 ) ( 757 -158 142 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 757 -158 142 ) ( 595 -158 116 ) ( 595 -158 142 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 188 142 ) ( 757 -158 116 ) ( 757 -158 142 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 595 188 116 ) ( 757 188 142 ) ( 595 188 142 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 25
+{
+( 183 -202 -66 ) ( 553 244 -66 ) ( 553 -202 -66 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 183 -202 -92 ) ( 183 244 -66 ) ( 183 -202 -66 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 553 -202 -92 ) ( 183 -202 -66 ) ( 553 -202 -66 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 244 -66 ) ( 553 -202 -92 ) ( 553 -202 -66 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 244 -92 ) ( 553 -202 -92 ) ( 553 244 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 183 244 -66 ) ( 553 244 -92 ) ( 553 244 -66 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 26
+{
+( 183 244 114 ) ( 553 -202 114 ) ( 553 244 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 183 -202 114 ) ( 183 244 140 ) ( 183 -202 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 183 -202 140 ) ( 553 244 140 ) ( 553 -202 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 553 -202 140 ) ( 183 -202 114 ) ( 183 -202 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 244 140 ) ( 553 -202 114 ) ( 553 -202 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 244 114 ) ( 553 244 140 ) ( 183 244 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 27
+{
+( 1255 92 -64 ) ( 1021 92 114 ) ( 1255 92 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1021 92 -64 ) ( 1021 118 114 ) ( 1021 92 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1021 92 114 ) ( 1255 118 114 ) ( 1255 92 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1255 118 -64 ) ( 1255 92 114 ) ( 1255 118 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1021 118 -64 ) ( 1255 92 -64 ) ( 1255 118 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 1021 118 114 ) ( 1255 118 -64 ) ( 1255 118 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 28
+{
+( 1021 -64 -64 ) ( 1255 92 -64 ) ( 1255 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1021 -64 -92 ) ( 1021 92 -64 ) ( 1021 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1255 -64 -92 ) ( 1021 -64 -64 ) ( 1255 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1255 92 -64 ) ( 1255 -64 -92 ) ( 1255 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1021 92 -92 ) ( 1255 -64 -92 ) ( 1255 92 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 1021 92 -64 ) ( 1255 92 -92 ) ( 1255 92 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 29
+{
+( 1255 -64 -64 ) ( 1255 92 114 ) ( 1255 -64 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1255 -64 114 ) ( 1281 92 114 ) ( 1281 -64 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1281 -64 -64 ) ( 1255 -64 114 ) ( 1281 -64 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1281 92 114 ) ( 1281 -64 -64 ) ( 1281 -64 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1255 92 -64 ) ( 1281 -64 -64 ) ( 1281 92 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 1255 92 114 ) ( 1281 92 -64 ) ( 1281 92 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 30
+{
+( 1021 -64 114 ) ( 1255 -64 -64 ) ( 1255 -64 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 1021 -90 -64 ) ( 1021 -64 114 ) ( 1021 -90 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1021 -90 114 ) ( 1255 -64 114 ) ( 1255 -90 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1255 -90 114 ) ( 1021 -90 -64 ) ( 1021 -90 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1255 -64 114 ) ( 1255 -90 -64 ) ( 1255 -90 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1021 -90 -64 ) ( 1255 -64 -64 ) ( 1021 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 31
+{
+( 1021 92 114 ) ( 1255 -64 114 ) ( 1255 92 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 1021 -64 114 ) ( 1021 92 140 ) ( 1021 -64 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1021 -64 140 ) ( 1255 92 140 ) ( 1255 -64 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1255 -64 140 ) ( 1021 -64 114 ) ( 1021 -64 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1255 92 140 ) ( 1255 -64 114 ) ( 1255 -64 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1021 92 114 ) ( 1255 92 140 ) ( 1021 92 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 32
+{
+( 981 184 -64 ) ( 811 184 114 ) ( 981 184 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 184 -64 ) ( 811 212 114 ) ( 811 184 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 811 184 114 ) ( 981 212 114 ) ( 981 184 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 981 212 -64 ) ( 981 184 114 ) ( 981 212 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 212 -64 ) ( 981 184 -64 ) ( 981 212 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 811 212 114 ) ( 981 212 -64 ) ( 981 212 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 33
+{
+( 811 -150 -64 ) ( 981 184 -64 ) ( 981 -150 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 811 -150 -92 ) ( 811 184 -64 ) ( 811 -150 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 981 -150 -92 ) ( 811 -150 -64 ) ( 981 -150 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 184 -64 ) ( 981 -150 -92 ) ( 981 -150 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 184 -92 ) ( 981 -150 -92 ) ( 981 184 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 811 184 -64 ) ( 981 184 -92 ) ( 981 184 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 34
+{
+( 811 -150 114 ) ( 981 -150 -64 ) ( 981 -150 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 811 -178 -64 ) ( 811 -150 114 ) ( 811 -178 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 811 -178 114 ) ( 981 -150 114 ) ( 981 -178 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 981 -178 114 ) ( 811 -178 -64 ) ( 811 -178 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 -150 114 ) ( 981 -178 -64 ) ( 981 -178 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 -178 -64 ) ( 981 -150 -64 ) ( 811 -150 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 35
+{
+( 811 184 114 ) ( 981 -150 114 ) ( 981 184 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 811 -150 114 ) ( 811 184 140 ) ( 811 -150 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 811 -150 140 ) ( 981 184 140 ) ( 981 -150 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 981 -150 140 ) ( 811 -150 114 ) ( 811 -150 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 184 140 ) ( 981 -150 114 ) ( 981 -150 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 184 114 ) ( 981 184 140 ) ( 811 184 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 36
+{
+( -753 98 -20 ) ( -495 -62 -36 ) ( -753 -62 -20 ) stone/Stone_Brushed_Khaki 256 71 90 0.5 0.4990409911 0 0 0
+( -495 98 -62 ) ( -495 98 -36 ) ( -753 98 -46 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -753 -62 -46 ) ( -753 98 -20 ) ( -753 -62 -20 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -495 -62 -36 ) ( -753 -62 -46 ) ( -753 -62 -20 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 98 -62 ) ( -753 -62 -46 ) ( -495 -62 -62 ) stone/Stone_Brushed_Khaki 256 74 -90 0.5 -0.4990409911 0 0 0
+( -495 98 -36 ) ( -495 -62 -62 ) ( -495 -62 -36 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 37
+{
+( -753 -62 76 ) ( -495 -62 -36 ) ( -495 -62 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -753 -62 -20 ) ( -753 -88 76 ) ( -753 -88 -20 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -495 -88 76 ) ( -753 -88 -20 ) ( -753 -88 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -753 -62 -20 ) ( -495 -88 -36 ) ( -495 -62 -36 ) stone/Stone_Brushed_Khaki 256 71 -90 0.5 -0.4990409911 0 0 0
+( -495 -62 76 ) ( -495 -88 -36 ) ( -495 -88 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -753 -62 76 ) ( -495 -88 76 ) ( -753 -88 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+}
+// brush 38
+{
+( -495 98 76 ) ( -753 98 -20 ) ( -753 98 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -753 126 76 ) ( -495 126 -36 ) ( -495 126 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -753 98 76 ) ( -753 126 -20 ) ( -753 126 76 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -753 98 -20 ) ( -495 126 -36 ) ( -753 126 -20 ) stone/Stone_Brushed_Khaki 256 71 -90 0.5 -0.4990409911 0 0 0
+( -495 98 -36 ) ( -495 126 76 ) ( -495 126 -36 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 98 76 ) ( -753 126 76 ) ( -495 126 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+}
+// brush 39
+{
+( -495 98 -42 ) ( -495 98 136 ) ( -433 98 -52 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 98 -42 ) ( -495 126 136 ) ( -495 98 136 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -495 98 136 ) ( -433 126 116 ) ( -433 98 116 ) stone/Stone_Brushed_Khaki 255 54 90 0.5 0.4758540094 0 0 0
+( -433 126 -52 ) ( -433 98 116 ) ( -433 126 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 126 -42 ) ( -433 98 -52 ) ( -433 126 -52 ) stone/Stone_Brushed_Khaki 255 153 -90 0.5 -0.4936209917 0 0 0
+( -495 126 136 ) ( -433 126 -52 ) ( -433 126 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 40
+{
+( -495 -62 -42 ) ( -433 98 -52 ) ( -433 -62 -52 ) stone/Stone_Brushed_Khaki 255 153 90 0.5 0.4936209917 0 0 0
+( -495 -62 -70 ) ( -495 98 -42 ) ( -495 -62 -42 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -495 -62 -70 ) ( -495 -62 -42 ) ( -433 -62 -78 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 98 -52 ) ( -433 -62 -78 ) ( -433 -62 -52 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 98 -70 ) ( -433 -62 -78 ) ( -433 98 -78 ) stone/Stone_Brushed_Khaki 255 62 -90 0.5 -0.495889008 0 0 0
+( -495 98 -42 ) ( -433 98 -78 ) ( -433 98 -52 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 41
+{
+( -495 -62 136 ) ( -433 -62 -52 ) ( -433 -62 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -495 -88 -42 ) ( -495 -62 136 ) ( -495 -88 136 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -495 -88 136 ) ( -433 -62 116 ) ( -433 -88 116 ) stone/Stone_Brushed_Khaki 255 54 90 0.5 0.4758540094 0 0 0
+( -433 -88 116 ) ( -495 -88 -42 ) ( -495 -88 136 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 -62 116 ) ( -433 -88 -52 ) ( -433 -88 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 -88 -42 ) ( -433 -62 -52 ) ( -495 -62 -42 ) stone/Stone_Brushed_Khaki 255 153 -90 0.5 -0.4936209917 0 0 0
+}
+// brush 42
+{
+( 127 -40 -64 ) ( 183 74 -64 ) ( 183 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 127 -40 -92 ) ( 127 74 -64 ) ( 127 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 183 -40 -92 ) ( 127 -40 -64 ) ( 183 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 74 -64 ) ( 183 -40 -92 ) ( 183 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 74 -92 ) ( 183 -40 -92 ) ( 183 74 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 127 74 -64 ) ( 183 74 -92 ) ( 183 74 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 43
+{
+( 127 74 94 ) ( 183 -40 94 ) ( 183 74 94 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 127 -40 94 ) ( 127 74 120 ) ( 127 -40 120 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 127 -40 120 ) ( 183 74 120 ) ( 183 -40 120 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 183 -40 120 ) ( 127 -40 94 ) ( 127 -40 120 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 74 120 ) ( 183 -40 94 ) ( 183 -40 120 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 74 94 ) ( 183 74 120 ) ( 127 74 120 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 44
+{
+( 347 -284 -60 ) ( 407 -230 -60 ) ( 407 -284 -60 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 347 -284 -88 ) ( 347 -230 -60 ) ( 347 -284 -60 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 407 -284 -88 ) ( 347 -284 -60 ) ( 407 -284 -60 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 407 -230 -60 ) ( 407 -284 -88 ) ( 407 -284 -60 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 347 -230 -88 ) ( 407 -284 -88 ) ( 407 -230 -88 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 347 -230 -60 ) ( 407 -230 -88 ) ( 407 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 45
+{
+( 407 -284 -60 ) ( 407 -230 76 ) ( 407 -284 76 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 407 -284 76 ) ( 433 -230 76 ) ( 433 -284 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 433 -284 -60 ) ( 407 -284 76 ) ( 433 -284 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 433 -230 76 ) ( 433 -284 -60 ) ( 433 -284 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 407 -230 -60 ) ( 433 -284 -60 ) ( 433 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 407 -230 76 ) ( 433 -230 -60 ) ( 433 -230 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 46
+{
+( 347 -284 76 ) ( 407 -284 -60 ) ( 407 -284 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 347 -312 -60 ) ( 347 -284 76 ) ( 347 -312 76 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 347 -312 76 ) ( 407 -284 76 ) ( 407 -312 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 407 -312 76 ) ( 347 -312 -60 ) ( 347 -312 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 407 -284 76 ) ( 407 -312 -60 ) ( 407 -312 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 347 -312 -60 ) ( 407 -284 -60 ) ( 347 -284 -60 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 47
+{
+( 347 -230 76 ) ( 407 -284 76 ) ( 407 -230 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 347 -284 76 ) ( 347 -230 104 ) ( 347 -284 104 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 347 -284 104 ) ( 407 -230 104 ) ( 407 -284 104 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 407 -284 104 ) ( 347 -284 76 ) ( 347 -284 104 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 407 -230 104 ) ( 407 -284 76 ) ( 407 -284 104 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 347 -230 76 ) ( 407 -230 104 ) ( 347 -230 104 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 48
+{
+( 347 -230 76 ) ( 347 -284 -60 ) ( 347 -284 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 321 -284 -60 ) ( 321 -230 76 ) ( 321 -284 76 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 321 -284 76 ) ( 347 -230 76 ) ( 347 -284 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 347 -284 76 ) ( 321 -284 -60 ) ( 321 -284 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 321 -230 -60 ) ( 347 -284 -60 ) ( 347 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 321 -230 -60 ) ( 347 -230 76 ) ( 321 -230 76 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 49
+{
+( -339 96 114 ) ( -403 96 -56 ) ( -403 96 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -339 122 -64 ) ( -339 96 114 ) ( -339 122 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 96 -56 ) ( -403 122 114 ) ( -403 96 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -403 96 114 ) ( -339 122 114 ) ( -339 96 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -339 96 -64 ) ( -403 122 -56 ) ( -403 96 -56 ) stone/Stone_Brushed_Khaki 255 74 -90 0.5 -0.4961389899 0 0 0
+( -339 122 -64 ) ( -339 122 114 ) ( -403 122 -56 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 50
+{
+( -403 -64 -56 ) ( -339 96 -64 ) ( -339 -64 -64 ) stone/Stone_Brushed_Khaki 255 74 90 0.5 0.4961389899 0 0 0
+( -339 96 -64 ) ( -339 -64 -92 ) ( -339 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 -64 -84 ) ( -403 96 -56 ) ( -403 -64 -56 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -339 -64 -64 ) ( -403 -64 -84 ) ( -403 -64 -56 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -339 96 -92 ) ( -403 -64 -84 ) ( -339 -64 -92 ) stone/Stone_Brushed_Khaki 255 81 -90 0.5 -0.4961389899 0 0 0
+( -403 96 -84 ) ( -339 96 -64 ) ( -403 96 -56 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 51
+{
+( -339 -64 -64 ) ( -339 -64 114 ) ( -403 -64 -56 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -339 -64 114 ) ( -339 -90 -64 ) ( -339 -90 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 -64 -56 ) ( -403 -90 114 ) ( -403 -90 -56 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -403 -64 114 ) ( -339 -90 114 ) ( -403 -90 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -339 -90 -64 ) ( -403 -90 114 ) ( -339 -90 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 -64 -56 ) ( -339 -90 -64 ) ( -339 -64 -64 ) stone/Stone_Brushed_Khaki 255 74 -90 0.5 -0.4961389899 0 0 0
+}
+// brush 52
+{
+( -403 96 114 ) ( -339 -64 114 ) ( -339 96 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -339 96 140 ) ( -339 -64 114 ) ( -339 -64 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 -64 114 ) ( -403 96 140 ) ( -403 -64 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -403 -64 140 ) ( -339 96 140 ) ( -339 -64 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -339 -64 114 ) ( -403 -64 140 ) ( -339 -64 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 96 114 ) ( -339 96 140 ) ( -403 96 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 53
+{
+( -339 -64 -64 ) ( 127 96 -64 ) ( 127 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -339 -64 -92 ) ( -339 96 -64 ) ( -339 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 127 -64 -92 ) ( -339 -64 -64 ) ( 127 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 96 -64 ) ( 127 -64 -92 ) ( 127 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -339 96 -92 ) ( 127 -64 -92 ) ( 127 96 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -339 96 -64 ) ( 127 96 -92 ) ( 127 96 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 54
+{
+( -339 96 114 ) ( 127 -64 114 ) ( 127 96 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -339 -64 114 ) ( -339 96 140 ) ( -339 -64 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -339 -64 140 ) ( 127 96 140 ) ( 127 -64 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 127 -64 140 ) ( -339 -64 114 ) ( -339 -64 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 96 140 ) ( 127 -64 114 ) ( 127 -64 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -339 96 114 ) ( 127 96 140 ) ( -339 96 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 55
+{
+( 757 -60 -64 ) ( 811 92 -64 ) ( 811 -60 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 757 -60 -92 ) ( 757 92 -64 ) ( 757 -60 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 811 -60 -92 ) ( 757 -60 -64 ) ( 811 -60 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 92 -64 ) ( 811 -60 -92 ) ( 811 -60 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 92 -92 ) ( 811 -60 -92 ) ( 811 92 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 757 92 -64 ) ( 811 92 -92 ) ( 811 92 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 56
+{
+( 785 92 114 ) ( 811 -60 114 ) ( 811 92 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 785 -60 114 ) ( 785 92 140 ) ( 785 -60 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 785 -60 140 ) ( 811 92 140 ) ( 811 -60 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 811 -60 140 ) ( 785 -60 114 ) ( 785 -60 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 92 140 ) ( 811 -60 114 ) ( 811 -60 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 785 92 114 ) ( 811 92 140 ) ( 785 92 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 57
+{
+( -49 -362 -64 ) ( 119 -92 -64 ) ( 119 -362 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -49 -362 -92 ) ( -49 -92 -64 ) ( -49 -362 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 119 -362 -92 ) ( -49 -362 -64 ) ( 119 -362 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 119 -92 -64 ) ( 119 -362 -92 ) ( 119 -362 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -49 -92 -92 ) ( 119 -362 -92 ) ( 119 -92 -92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -49 -92 -64 ) ( 119 -92 -92 ) ( 119 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 58
+{
+( 119 -362 -64 ) ( 119 -92 114 ) ( 119 -362 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 119 -362 114 ) ( 145 -92 114 ) ( 145 -362 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 145 -362 -64 ) ( 119 -362 114 ) ( 145 -362 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 145 -92 114 ) ( 145 -362 -64 ) ( 145 -362 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 119 -92 -64 ) ( 145 -362 -64 ) ( 145 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 119 -92 114 ) ( 145 -92 -64 ) ( 145 -92 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 59
+{
+( -49 -64 114 ) ( 119 -362 114 ) ( 119 -64 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -49 -362 114 ) ( -49 -64 140 ) ( -49 -362 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -49 -362 140 ) ( 119 -64 140 ) ( 119 -362 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 119 -362 140 ) ( -49 -362 114 ) ( -49 -362 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 119 -64 140 ) ( 119 -362 114 ) ( 119 -362 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -49 -64 114 ) ( 119 -64 140 ) ( -49 -64 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 60
+{
+( -49 -92 114 ) ( -49 -362 -64 ) ( -49 -362 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -75 -362 -64 ) ( -75 -92 114 ) ( -75 -362 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -75 -362 114 ) ( -49 -92 114 ) ( -49 -362 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -49 -362 114 ) ( -75 -362 -64 ) ( -75 -362 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -75 -92 -64 ) ( -49 -362 -64 ) ( -49 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -75 -92 -64 ) ( -49 -92 114 ) ( -75 -92 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 61
+{
+( 337 276 114 ) ( 403 244 114 ) ( 403 276 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 337 244 114 ) ( 337 276 140 ) ( 337 244 140 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 337 244 140 ) ( 403 276 140 ) ( 403 244 140 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 403 244 140 ) ( 337 244 114 ) ( 337 244 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 403 276 140 ) ( 403 244 114 ) ( 403 244 140 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 337 276 114 ) ( 403 276 140 ) ( 337 276 140 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 62
+{
+( 155 74 -64 ) ( 127 74 114 ) ( 155 74 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 74 -64 ) ( 127 96 114 ) ( 127 74 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 127 74 114 ) ( 155 96 114 ) ( 155 74 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 155 96 -64 ) ( 155 74 114 ) ( 155 96 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 96 -64 ) ( 155 74 -64 ) ( 155 96 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 127 96 114 ) ( 155 96 -64 ) ( 155 96 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 63
+{
+( 127 -40 114 ) ( 155 -40 -64 ) ( 155 -40 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 127 -64 -64 ) ( 127 -40 114 ) ( 127 -64 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 127 -64 114 ) ( 155 -40 114 ) ( 155 -64 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 155 -64 114 ) ( 127 -64 -64 ) ( 127 -64 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 155 -40 114 ) ( 155 -64 -64 ) ( 155 -64 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 -64 -64 ) ( 155 -40 -64 ) ( 127 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 64
+{
+( 575 76 -66 ) ( 553 76 114 ) ( 575 76 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 76 -66 ) ( 553 244 114 ) ( 553 76 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 553 76 114 ) ( 575 244 114 ) ( 575 76 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 575 244 -66 ) ( 575 76 114 ) ( 575 244 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 244 -66 ) ( 575 76 -66 ) ( 575 244 -66 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 553 244 114 ) ( 575 244 -66 ) ( 575 244 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 65
+{
+( 553 -202 -64 ) ( 575 76 -64 ) ( 575 -202 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 553 76 -64 ) ( 575 76 -66 ) ( 575 76 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 553 -202 -66 ) ( 553 76 -64 ) ( 553 -202 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 575 -202 -64 ) ( 553 -202 -66 ) ( 553 -202 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 76 -64 ) ( 575 -202 -66 ) ( 575 -202 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 76 -66 ) ( 553 -202 -66 ) ( 575 -202 -66 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 66
+{
+( 553 -40 -64 ) ( 575 -40 114 ) ( 553 -40 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 553 -202 -64 ) ( 575 -40 -64 ) ( 553 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 553 -40 -64 ) ( 553 -202 114 ) ( 553 -202 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 553 -40 114 ) ( 575 -202 114 ) ( 553 -202 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 575 -202 -64 ) ( 553 -202 114 ) ( 575 -202 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 -40 -64 ) ( 575 -202 114 ) ( 575 -40 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 67
+{
+( 553 -40 86 ) ( 575 76 86 ) ( 553 76 86 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 575 -40 86 ) ( 553 -40 114 ) ( 575 -40 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 76 86 ) ( 575 76 114 ) ( 553 76 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 553 -40 86 ) ( 553 76 114 ) ( 553 -40 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 575 -40 114 ) ( 553 76 114 ) ( 575 76 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 575 -40 86 ) ( 575 76 114 ) ( 575 76 86 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 68
+{
+( 595 76 116 ) ( 575 76 -64 ) ( 575 76 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 595 188 -64 ) ( 595 76 116 ) ( 595 188 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 76 -64 ) ( 575 188 116 ) ( 575 76 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 575 76 116 ) ( 595 188 116 ) ( 595 76 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 595 76 -64 ) ( 575 188 -64 ) ( 575 76 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 575 188 -64 ) ( 595 188 116 ) ( 575 188 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 69
+{
+( 575 -40 -64 ) ( 595 -40 116 ) ( 575 -40 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 595 -40 116 ) ( 595 -158 -64 ) ( 595 -158 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 -40 -64 ) ( 575 -158 116 ) ( 575 -158 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 575 -40 116 ) ( 595 -158 116 ) ( 575 -158 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 595 -158 -64 ) ( 575 -158 116 ) ( 595 -158 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 -40 -64 ) ( 595 -158 -64 ) ( 595 -40 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 70
+{
+( 575 76 86 ) ( 595 -40 86 ) ( 595 76 86 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 575 -40 86 ) ( 595 -40 116 ) ( 595 -40 86 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 76 116 ) ( 595 76 86 ) ( 595 76 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 595 -40 86 ) ( 595 76 116 ) ( 595 76 86 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 575 -40 116 ) ( 575 76 86 ) ( 575 76 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 575 -40 116 ) ( 595 76 116 ) ( 595 -40 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+}
+// brush 71
+{
+( 785 92 -64 ) ( 757 92 116 ) ( 785 92 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 92 -64 ) ( 757 188 116 ) ( 757 92 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 757 92 116 ) ( 785 188 116 ) ( 785 92 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 785 188 -64 ) ( 785 92 116 ) ( 785 188 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 188 -64 ) ( 785 92 -64 ) ( 785 188 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 757 188 116 ) ( 785 188 -64 ) ( 785 188 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 72
+{
+( 757 -60 116 ) ( 785 -60 -64 ) ( 785 -60 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 757 -158 -64 ) ( 757 -60 116 ) ( 757 -158 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 757 -158 116 ) ( 785 -60 116 ) ( 785 -158 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 785 -158 116 ) ( 757 -158 -64 ) ( 757 -158 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 785 -60 116 ) ( 785 -158 -64 ) ( 785 -158 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 -158 -64 ) ( 785 -60 -64 ) ( 757 -60 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 73
+{
+( 757 -60 114 ) ( 785 92 114 ) ( 757 92 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 785 -60 114 ) ( 757 -60 116 ) ( 785 -60 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 757 92 114 ) ( 785 92 116 ) ( 757 92 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 757 -60 114 ) ( 757 92 116 ) ( 757 -60 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 785 -60 116 ) ( 757 92 116 ) ( 785 92 116 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 785 -60 114 ) ( 785 92 116 ) ( 785 92 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 74
+{
+( 811 92 114 ) ( 785 92 -64 ) ( 785 92 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 811 184 -64 ) ( 811 92 114 ) ( 811 184 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 785 92 -64 ) ( 785 184 114 ) ( 785 92 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 785 92 114 ) ( 811 184 114 ) ( 811 92 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 811 92 -64 ) ( 785 184 -64 ) ( 785 92 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 785 184 -64 ) ( 811 184 114 ) ( 785 184 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 75
+{
+( 785 -60 -64 ) ( 811 -60 114 ) ( 785 -60 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 811 -60 114 ) ( 811 -150 -64 ) ( 811 -150 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 785 -60 -64 ) ( 785 -150 114 ) ( 785 -150 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 785 -60 114 ) ( 811 -150 114 ) ( 785 -150 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 811 -150 -64 ) ( 785 -150 114 ) ( 811 -150 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 785 -60 -64 ) ( 811 -150 -64 ) ( 811 -60 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 76
+{
+( 1021 74 114 ) ( 1001 74 -64 ) ( 1001 74 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1021 92 -64 ) ( 1021 74 114 ) ( 1021 92 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1001 74 -64 ) ( 1001 92 114 ) ( 1001 74 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1001 74 114 ) ( 1021 92 114 ) ( 1021 74 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1021 74 -64 ) ( 1001 92 -64 ) ( 1001 74 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 1001 92 -64 ) ( 1021 92 114 ) ( 1001 92 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 77
+{
+( 1001 -36 -64 ) ( 1021 -36 114 ) ( 1001 -36 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 1021 -36 114 ) ( 1021 -64 -64 ) ( 1021 -64 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1001 -36 -64 ) ( 1001 -64 114 ) ( 1001 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1001 -36 114 ) ( 1021 -64 114 ) ( 1001 -64 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1021 -64 -64 ) ( 1001 -64 114 ) ( 1021 -64 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1001 -36 -64 ) ( 1021 -64 -64 ) ( 1021 -36 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 78
+{
+( 1001 74 74 ) ( 1021 -36 74 ) ( 1021 74 74 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 1001 -36 74 ) ( 1021 -36 114 ) ( 1021 -36 74 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1001 74 114 ) ( 1021 74 74 ) ( 1021 74 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 1021 -36 74 ) ( 1021 74 114 ) ( 1021 74 74 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1001 -36 114 ) ( 1001 74 74 ) ( 1001 74 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1001 -36 114 ) ( 1021 74 114 ) ( 1021 -36 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+}
+// brush 79
+{
+( 1001 74 -64 ) ( 981 74 114 ) ( 1001 74 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 74 -64 ) ( 981 184 114 ) ( 981 74 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 981 74 114 ) ( 1001 184 114 ) ( 1001 74 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1001 184 -64 ) ( 1001 74 114 ) ( 1001 184 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 184 -64 ) ( 1001 74 -64 ) ( 1001 184 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 981 184 114 ) ( 1001 184 -64 ) ( 1001 184 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 80
+{
+( 981 -36 114 ) ( 1001 -36 -64 ) ( 1001 -36 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 981 -150 -64 ) ( 981 -36 114 ) ( 981 -150 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 981 -150 114 ) ( 1001 -36 114 ) ( 1001 -150 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1001 -150 114 ) ( 981 -150 -64 ) ( 981 -150 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 1001 -36 114 ) ( 1001 -150 -64 ) ( 1001 -150 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 -150 -64 ) ( 1001 -36 -64 ) ( 981 -36 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 81
+{
+( 981 -36 74 ) ( 1001 74 74 ) ( 981 74 74 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 1001 -36 74 ) ( 981 -36 114 ) ( 1001 -36 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 981 74 74 ) ( 1001 74 114 ) ( 981 74 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 981 -36 74 ) ( 981 74 114 ) ( 981 -36 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 1001 -36 114 ) ( 981 74 114 ) ( 1001 74 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 1001 -36 74 ) ( 1001 74 114 ) ( 1001 74 74 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 82
+{
+( 183 -230 -60 ) ( 553 -202 -60 ) ( 553 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 183 -202 -60 ) ( 553 -202 -66 ) ( 553 -202 -60 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 183 -230 -66 ) ( 183 -202 -60 ) ( 183 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 553 -230 -60 ) ( 183 -230 -66 ) ( 183 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 -202 -60 ) ( 553 -230 -66 ) ( 553 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 -202 -66 ) ( 183 -230 -66 ) ( 553 -230 -66 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 83
+{
+( 407 -230 114 ) ( 407 -202 -60 ) ( 407 -202 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 553 -202 -60 ) ( 407 -230 -60 ) ( 553 -230 -60 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 407 -202 -60 ) ( 553 -202 114 ) ( 407 -202 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 553 -230 114 ) ( 407 -202 114 ) ( 553 -202 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 553 -230 -60 ) ( 407 -230 114 ) ( 553 -230 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 553 -202 -60 ) ( 553 -230 114 ) ( 553 -202 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 84
+{
+( 183 -202 76 ) ( 407 -230 76 ) ( 407 -202 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 407 -202 76 ) ( 407 -230 114 ) ( 407 -202 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 -202 76 ) ( 407 -202 114 ) ( 183 -202 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 183 -230 76 ) ( 183 -202 114 ) ( 183 -230 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 407 -230 114 ) ( 183 -202 114 ) ( 407 -202 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 407 -230 114 ) ( 183 -230 76 ) ( 183 -230 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 85
+{
+( 347 -202 -60 ) ( 347 -230 76 ) ( 347 -202 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 347 -230 76 ) ( 183 -202 76 ) ( 347 -202 76 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 183 -202 -60 ) ( 347 -230 -60 ) ( 347 -202 -60 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 347 -202 -60 ) ( 183 -202 76 ) ( 183 -202 -60 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 183 -230 76 ) ( 183 -202 -60 ) ( 183 -202 76 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 347 -230 -60 ) ( 183 -230 76 ) ( 347 -230 76 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 86
+{
+( 183 244 -64 ) ( 553 276 -64 ) ( 553 244 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 553 244 -66 ) ( 183 244 -64 ) ( 553 244 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 244 -66 ) ( 183 276 -64 ) ( 183 244 -64 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 553 276 -64 ) ( 553 244 -66 ) ( 553 244 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 276 -66 ) ( 553 244 -66 ) ( 553 276 -66 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 183 276 -66 ) ( 553 276 -64 ) ( 183 276 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 87
+{
+( 403 244 -64 ) ( 403 276 114 ) ( 403 244 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 403 276 -64 ) ( 553 244 -64 ) ( 553 276 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 403 244 -64 ) ( 553 244 114 ) ( 553 244 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 403 244 114 ) ( 553 276 114 ) ( 553 244 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 553 276 -64 ) ( 553 244 114 ) ( 553 276 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 403 276 -64 ) ( 553 276 114 ) ( 403 276 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 88
+{
+( 337 276 -64 ) ( 337 244 114 ) ( 337 276 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 337 276 -64 ) ( 183 244 -64 ) ( 337 244 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 337 244 -64 ) ( 183 244 114 ) ( 337 244 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 244 -64 ) ( 183 276 114 ) ( 183 244 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 183 244 114 ) ( 337 276 114 ) ( 337 244 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 337 276 -64 ) ( 183 276 114 ) ( 183 276 -64 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 89
+{
+( 57 96 -64 ) ( 57 122 114 ) ( 57 96 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 127 96 -64 ) ( 57 96 114 ) ( 127 96 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 57 96 114 ) ( 127 122 114 ) ( 127 96 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 127 122 114 ) ( 127 96 -64 ) ( 127 96 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 57 122 -64 ) ( 127 96 -64 ) ( 127 122 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 57 122 114 ) ( 127 122 -64 ) ( 127 122 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 90
+{
+( -3 122 -64 ) ( -3 96 114 ) ( -3 122 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -3 96 114 ) ( -339 96 -64 ) ( -339 96 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -339 96 -64 ) ( -339 122 114 ) ( -339 96 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -339 96 114 ) ( -3 122 114 ) ( -3 96 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -3 122 -64 ) ( -339 96 -64 ) ( -3 96 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -339 122 -64 ) ( -3 122 114 ) ( -339 122 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 91
+{
+( 61 -92 -64 ) ( 61 -64 114 ) ( 61 -92 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 61 -64 114 ) ( 127 -64 -64 ) ( 127 -64 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 61 -92 114 ) ( 127 -64 114 ) ( 127 -92 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 61 -92 -64 ) ( 127 -92 114 ) ( 127 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 -64 114 ) ( 127 -92 -64 ) ( 127 -92 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 127 -64 -64 ) ( 61 -92 -64 ) ( 127 -92 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 92
+{
+( 5 -64 114 ) ( 5 -92 -64 ) ( 5 -92 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -339 -64 -64 ) ( 5 -64 114 ) ( -339 -64 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -339 -92 114 ) ( -339 -64 -64 ) ( -339 -64 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 5 -92 114 ) ( -339 -64 114 ) ( 5 -64 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 5 -92 -64 ) ( -339 -92 114 ) ( 5 -92 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -339 -64 -64 ) ( 5 -92 -64 ) ( 5 -64 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+// brush 93
+{
+( 183 74 114 ) ( 155 74 -66 ) ( 155 74 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 183 244 -66 ) ( 183 74 114 ) ( 183 244 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 155 74 -66 ) ( 155 244 114 ) ( 155 74 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 155 74 114 ) ( 183 244 114 ) ( 183 74 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 183 74 -66 ) ( 155 244 -66 ) ( 155 74 -66 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 155 244 -66 ) ( 183 244 114 ) ( 155 244 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 94
+{
+( -495 98 136 ) ( -433 -62 116 ) ( -433 98 116 ) stone/Stone_Brushed_Khaki 255 54 -90 0.5 -0.4758540094 0 0 0
+( -495 -62 136 ) ( -495 98 162 ) ( -495 -62 162 ) KV_3/KV3-SofRamessesIII 156 70 0 -0.5699999928 0.400000006 0 0 0
+( -495 -62 162 ) ( -433 98 146 ) ( -433 -62 146 ) stone/Stone_Brushed_Khaki 255 253 90 0.5 0.4841389954 0 0 0
+( -433 -62 146 ) ( -495 -62 136 ) ( -495 -62 162 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 98 146 ) ( -433 -62 116 ) ( -433 -62 146 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 98 116 ) ( -433 98 146 ) ( -495 98 136 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 95
+{
+( -495 98 162 ) ( -469 -62 156 ) ( -469 98 156 ) stone/Stone_Brushed_Khaki 255 180 -90 0.5 -0.4871959984 0 0 0
+( -495 98 162 ) ( -495 -62 232 ) ( -495 -62 162 ) KV_3/KV3-SofRamessesIII 156 70 0 -0.5699999928 0.400000006 0 0 0
+( -495 98 232 ) ( -469 98 156 ) ( -469 98 242 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -469 -62 242 ) ( -495 -62 162 ) ( -495 -62 232 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -469 -62 156 ) ( -469 98 242 ) ( -469 98 156 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -495 98 232 ) ( -469 -62 242 ) ( -495 -62 232 ) stone/Stone_Brushed_Khaki 256 177 -90 0.5 0.4666729867 0 0 0
+}
+// brush 96
+{
+( -433 76 -52 ) ( -433 76 116 ) ( -417 76 -54 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 76 -52 ) ( -433 98 116 ) ( -433 76 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -433 76 116 ) ( -417 98 112 ) ( -417 76 112 ) stone/Stone_Brushed_Khaki 255 67 90 0.5 0.4850710034 0 0 0
+( -417 98 -54 ) ( -417 76 112 ) ( -417 98 112 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 98 -52 ) ( -417 76 -54 ) ( -417 98 -54 ) stone/Stone_Brushed_Khaki 255 74 -90 0.5 -0.4961389899 0 0 0
+( -433 98 116 ) ( -417 98 -54 ) ( -417 98 112 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 97
+{
+( -433 -52 116 ) ( -417 -52 -54 ) ( -417 -52 112 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -433 -62 -52 ) ( -433 -52 116 ) ( -433 -62 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -433 -62 116 ) ( -417 -52 112 ) ( -417 -62 112 ) stone/Stone_Brushed_Khaki 255 67 90 0.5 0.4850710034 0 0 0
+( -417 -62 112 ) ( -433 -62 -52 ) ( -433 -62 116 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -417 -52 112 ) ( -417 -62 -54 ) ( -417 -62 112 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 -62 -52 ) ( -417 -52 -54 ) ( -433 -52 -52 ) stone/Stone_Brushed_Khaki 255 74 -90 0.5 -0.4961389899 0 0 0
+}
+// brush 98
+{
+( -433 -52 92 ) ( -417 76 92 ) ( -433 76 92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -433 -52 92 ) ( -433 -52 116 ) ( -417 -52 92 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -433 76 92 ) ( -417 76 111 ) ( -433 76 116 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -433 -52 92 ) ( -433 76 116 ) ( -433 -52 116 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -417 -52 111 ) ( -433 76 116 ) ( -417 76 111 ) stone/Stone_Brushed_Khaki 255 167 90 0.5 0.4778900146 0 0 0
+( -417 -52 92 ) ( -417 76 111 ) ( -417 76 92 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 99
+{
+( -403 76 114 ) ( -417 76 -54 ) ( -417 76 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -403 96 -56 ) ( -403 76 114 ) ( -403 96 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -417 76 -54 ) ( -417 96 114 ) ( -417 76 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -417 76 114 ) ( -403 96 114 ) ( -403 76 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -403 76 -56 ) ( -417 96 -54 ) ( -417 76 -54 ) stone/Stone_Brushed_Khaki 255 246 -90 0.5 -0.4949750006 0 0 0
+( -403 96 -56 ) ( -403 96 114 ) ( -417 96 -54 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 100
+{
+( -403 -52 -56 ) ( -403 -52 114 ) ( -417 -52 -54 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -417 -52 -54 ) ( -403 -64 -56 ) ( -403 -52 -56 ) stone/Stone_Brushed_Khaki 255 246 -90 0.5 -0.4949750006 0 0 0
+( -403 -52 -56 ) ( -403 -64 114 ) ( -403 -52 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -417 -64 -54 ) ( -417 -52 114 ) ( -417 -64 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -417 -64 114 ) ( -403 -52 114 ) ( -403 -64 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( -417 -64 -54 ) ( -403 -64 114 ) ( -403 -64 -56 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+}
+// brush 101
+{
+( -417 76 92 ) ( -403 -52 92 ) ( -403 76 92 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( -417 -52 92 ) ( -403 -52 114 ) ( -403 -52 92 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -417 76 114 ) ( -403 76 92 ) ( -403 76 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( -403 -52 92 ) ( -403 76 114 ) ( -403 76 92 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( -417 -52 114 ) ( -417 76 92 ) ( -417 76 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( -417 -52 114 ) ( -403 76 114 ) ( -403 -52 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+}
+// brush 102
+{
+( 455 536 -64 ) ( 281 536 114 ) ( 455 536 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 281 536 -64 ) ( 281 562 114 ) ( 281 536 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 281 536 114 ) ( 455 562 114 ) ( 455 536 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 455 562 -64 ) ( 455 536 114 ) ( 455 562 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 281 562 -64 ) ( 455 536 -64 ) ( 455 562 -64 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+( 281 562 114 ) ( 455 562 -64 ) ( 455 562 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+}
+// brush 103
+{
+( 155 -40 114 ) ( 183 -202 114 ) ( 155 -202 114 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 0.5 0 0 0
+( 155 -40 -66 ) ( 183 -40 114 ) ( 155 -40 114 ) stone/Stone_Brushed_Khaki 0 0 -180 0.5 -0.5 0 0 0
+( 183 -40 114 ) ( 183 -202 -66 ) ( 183 -202 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 155 -202 114 ) ( 155 -40 -66 ) ( 155 -40 114 ) stone/Stone_Brushed_Khaki 0 0 180 0.5 -0.5 0 0 0
+( 183 -202 -66 ) ( 155 -202 114 ) ( 183 -202 114 ) stone/Stone_Brushed_Khaki 0 0 0 0.5 0.5 0 0 0
+( 155 -40 -66 ) ( 183 -202 -66 ) ( 183 -40 -66 ) stone/Stone_Brushed_Khaki 0 0 90 0.5 -0.5 0 0 0
+}
+}
+// entity 10
+{
+"classname" "info_player_start"
+"angle" "-117.294"
+"origin" "338.38 -32 -34.5"
+}
+// entity 11
+{
+"classname" "info_player_deathmatch"
+"angle" "-117.294"
+"origin" "402.985 100.125 -34.25"
+}

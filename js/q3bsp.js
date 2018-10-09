@@ -29,7 +29,7 @@
 q3bsp_vertex_stride = 56;
 q3bsp_sky_vertex_stride = 20;
 
-q3bsp_base_folder = 'demo_baseq3';
+q3bsp_base_folder = 'baseq3';
 
 /*
  * q3bsp

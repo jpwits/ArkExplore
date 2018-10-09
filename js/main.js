@@ -45,7 +45,7 @@ var mapShaders = [
     'scripts/gothic_trim.shader', 'scripts/gothic_wall.shader', 'scripts/hell.shader',
     'scripts/liquid.shader', 'scripts/menu.shader', 'scripts/models.shader',
     'scripts/organics.shader', 'scripts/sfx.shader', 'scripts/shrine.shader',
-    'scripts/skin.shader', 'scripts/sky.shader', 'scripts/test.shader'
+    'scripts/skin.shader', 'scripts/sky.shader'
 ];
 
 // For my demo, I compiled only the shaders the map used into a single file for performance reasons
