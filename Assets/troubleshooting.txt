@@ -1,6 +1,6 @@
 Backwards tree.... - Set to structure (Leak through floor)
 Model appears black - remove caulks???
-Fall trough model - add _clipdepth 16/8/4/(2 - default)
+Fall trough model - add _clipdepth 16/8/4/(2 - default) - spawnflags
 lights missing - ????
 Snap everything to grid - 1
 Centre model on 0,0,0 for ASE

@@ -689,37 +689,25 @@
 }
 // entity 1
 {
-"classname" "info_player_start"
-"origin" "831.25 -1.5 -7.5"
-"angle" "-117.294"
+"classname" "light"
+"origin" "1090.88 -0.375 -83.375"
+"light" "1648.41"
 }
 // entity 2
 {
-"classname" "info_player_deathmatch"
-"origin" "696.625 -3.75 40.625"
-"angle" "-117.294"
+"classname" "light"
+"origin" "-771 -12.625 101.625"
+"light" "1447.09"
 }
 // entity 3
 {
 "classname" "light"
-"origin" "1090.88 -0.375 -83.375"
-"light" "605.193"
+"origin" "32.125 -12.125 -44"
+"light" "1918.5"
 }
 // entity 4
 {
 "classname" "light"
-"origin" "-771 -12.625 101.625"
-"light" "605.193"
-}
-// entity 5
-{
-"classname" "light"
-"origin" "32.125 -12.125 -44"
-"light" "605.193"
-}
-// entity 6
-{
-"classname" "light"
 "origin" "746.75 -0.375 -83.375"
-"light" "605.193"
+"light" "2149.31"
 }
