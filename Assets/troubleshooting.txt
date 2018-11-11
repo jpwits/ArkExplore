@@ -4,3 +4,15 @@ Fall trough model - add _clipdepth 16/8/4/(2 - default) - spawnflags
 lights missing - ????
 Snap everything to grid - 1
 Centre model on 0,0,0 for ASE
+
+NetRadiant -> Unity
+Models
+Model -> No leaks, Structure ->obj
+obj -> fbx
+rename dirs in fbx
+unity->Add colider per material
+Unity->....
+
+Landscape
+
+
